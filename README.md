@@ -22,5 +22,9 @@ The purpose of this project is to analyze the behavior of online shoppers throug
 Eighty-five percent (10,422) of the 12,330 generated no income(Negative class samples). At the same time, the rest (1908) completed their shopping and generated revenue(Positive class samples).
 
 
+![image](https://github.com/hputta23/Predicted-purchase-intent-of-e-commerce-website-visitors-/assets/47238017/b5da28a7-4989-4df0-b512-6e49d0d2bcdc)
+- Correlation: The most highly correlated features among them are BounceRates and ExitRates, which show a correlation coefficient of 0.91. ProductRelated and ProductRelated_Duration with a correlation coefficient of 0.86.
 
+![image](https://github.com/hputta23/Predicted-purchase-intent-of-e-commerce-website-visitors-/assets/47238017/af0316ce-f3dd-464f-8e8c-c3ffaf1fc6a4)
+- Returning vs. New Visitors: Maximum number of customers return to website even though not many of them contributed to revenue generation.
 
