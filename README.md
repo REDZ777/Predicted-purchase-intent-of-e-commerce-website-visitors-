@@ -1,6 +1,6 @@
 # Predicted-purchase-intent-of-e-commerce-website-visitors-
 ## Abstract
-The purpose of this poster is to analyze the behavior of online shoppers through their click-stream data on an E-commerce platform, in order to predict whether their visit to the website will result in a purchase (revenue generation). The data is preprocessed and features are engineered to be used in the predictive model. The model is trained on historical data and evaluated on a test set, with the aim of achieving high accuracy in predicting revenue generation from website visits.
+The purpose of this project is to analyze the behavior of online shoppers through their click-stream data on an E-commerce platform, in order to Predict whether their visit to the website will result in a purchase(revenue generation). 
 
 ## Introduction
 - The popularity of online shopping is growing, and e-commerce platforms need to improve sales by analyzing purchase patterns and customer psychology.
@@ -14,5 +14,13 @@ The purpose of this poster is to analyze the behavior of online shoppers through
 - There are 12,330 instances in the data. These instances are sessions of online users.
 - Each session has 18 features out of which 10 are numerical and 8 are categorical.
 - To predict the intention of customers we take ‘Revenue’ as the target variable. If the output is 1 then the customer purchases, else it is not a purchase.
+
+## EDA
+
+![image](https://github.com/hputta23/Predicted-purchase-intent-of-e-commerce-website-visitors-/assets/47238017/e72548d4-774a-427c-a610-17fb91ec800f)
+- Highly Unbalanced Dataset: 
+Eighty-five percent (10,422) of the 12,330 generated no income(Negative class samples). At the same time, the rest (1908) completed their shopping and generated revenue(Positive class samples).
+
+
 
 
